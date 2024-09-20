@@ -23,3 +23,7 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 - [The Official Python Documentation on Mapping, Reducing, and Filtering](https://docs.python.org/3/howto/functional.html#built-in-functions)
 - [The `apply` Function in Pandas](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
+
+## Tableau Dashboard:
+
+https://public.tableau.com/views/IronHackPaymentProject_17268419095340/Dashboard1?:language=pt-BR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
