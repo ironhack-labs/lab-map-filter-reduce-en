@@ -21,5 +21,5 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 
 ## Resources
 
-- [The Official Python Documentation on Mapping, Reducing, and Filtering](https://docs.python.org/3/howto/functional.html#built-in-functions)
+- [The Official Python Documentation on Mapping, Reducing, and Filtering](ttps://docs.python.org/3/howto/functional.html#built-in-functionsh)
 - [The `apply` Function in Pandas](https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.apply.html)
